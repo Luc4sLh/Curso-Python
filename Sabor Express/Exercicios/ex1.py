@@ -1,0 +1,1 @@
+print('Python na escola de programação da Alura')
